@@ -1,0 +1,4 @@
+frist=input("enter frist Name:")
+last=input("Enter Last Name:")
+fullname=frist+""+last
+print("full Name:",fullname)
