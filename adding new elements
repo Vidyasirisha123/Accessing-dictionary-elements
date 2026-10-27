@@ -1,0 +1,13 @@
+student={ 
+ 
+"Roll":102, 
+ 
+"Name":"siri" 
+ 
+} 
+ 
+student["Branch"]="bsc" 
+ 
+student["CGPA"]=8.9
+print (student)
+
