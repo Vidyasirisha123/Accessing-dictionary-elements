@@ -1,0 +1,6 @@
+text=input("Enter string:")
+print("Frist4 characters:",text[:4])
+print("last 4 characters:",text[-4])
+print("Reverse:",text[::-1])
+
+
