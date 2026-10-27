@@ -1,0 +1,4 @@
+x="32",name="siri", group="bsc",cgpa="8.7"
+print(x)
+y=list(x)
+print(y)
