@@ -1,0 +1,9 @@
+student={ 
+"Roll":102, 
+"Name":"siri", 
+"Branch":"bsc", 
+"CGPA":8.9 
+} 
+ 
+print(student)
+
