@@ -1,0 +1,9 @@
+import re
+x=input("enter string")
+y=input("enter string")
+if(re.match(x,y)):
+    print("matched...")
+else:
+    print("unmatched...")
+        
+        
